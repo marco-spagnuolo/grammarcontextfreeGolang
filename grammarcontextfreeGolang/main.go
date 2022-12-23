@@ -313,4 +313,3 @@ func GenerateRandomDNAFile(filename string) {
 	w.Flush()
 }
 
-//main
