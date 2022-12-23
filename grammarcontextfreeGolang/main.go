@@ -1,4 +1,3 @@
-//costruct a context free grammar from a file and use bwt to find all the strings that match a pattern
 
 package main
 
